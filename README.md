@@ -1,3 +1,2 @@
 # tictactoe
-lets play
-Modular pattern
+lets play!!!!!
